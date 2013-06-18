@@ -1,0 +1,3 @@
+com\sap\hana\cloud\odata\service\PersonsListServiceFactory.class
+com\sap\hana\cloud\sample\PersonsJpaPersistenceServlet.class
+com\sap\hana\cloud\odata\service\JpaEntityManagerFactory.class
